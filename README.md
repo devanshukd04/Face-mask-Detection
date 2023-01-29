@@ -1,4 +1,4 @@
-# Face-mask-Detection-1
+# Face-mask-Detection
 
 ## Inspiration
 - COVID-19 is an infectious disease caused by the SARS-CoV2 virus, but anyone can become seriously ill from COVID-19, regardless of their age. 
